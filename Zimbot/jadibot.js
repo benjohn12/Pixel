@@ -7,7 +7,7 @@
 //▮
 //▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮WHATSAPP US : +265 990675095
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
