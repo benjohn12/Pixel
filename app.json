@@ -17,7 +17,7 @@
 "ALIVE_MSG" :{
     "description" : "enter you msg",
     "required" : true,
-  "value" : "HI I'M  PIXEL made by benard"
+  "value" : "HI I'M  PIXEL"
     },
      
      "ALIVE_LOGO" :{
